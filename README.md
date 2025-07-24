@@ -15,7 +15,7 @@ Desenvolver e treinar uma MLP capaz de identificar cogumelos venenosos utilizand
 ## 🧠 Tecnologias e Ferramentas
 
 - Python 3.8+
-- TensorFlow (keras)
+- TensorFlow 
 - Pandas
 - Numpy
 - Scikit-learn
